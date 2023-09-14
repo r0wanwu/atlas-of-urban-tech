@@ -56,13 +56,13 @@ It is also essential to optimize coordination among entities involved in IoT eff
 
 **Privacy + Transparency**. IoT projects should be open about the whole process of data collection, transmission and processing, and should also protect the privacy of users. 
 
-**Security + Safety**. Cybersecuirty should be considered when implementing IoT projects, and IoT projects shuold be designed to promote the security and safety of public.
+**Security + Safety**. Cybersecuirty should be considered when implementing IoT projects, and IoT projects should be designed to promote the security and safety of public.
 
-**Fairness + Equity**. Every resident in New York City should have equal access to the IoT services.
+**Fairness + Equity**. Every resident in New York City should have equal access to IoT services.
 
-**Efficiency + Sustainability**. IoT infrastructure shuold be designed and deployed in a way of sustainability, and the resources should be shareable and reusable. Entities shuold also untilize IoT projects to promote a more sustainable environment.
+**Efficiency + Sustainability**. IoT infrastructure should be designed and deployed efficiently, and the resources should be shareable and reusable. Entities should also utilize IoT projects to promote a more sustainable environment.
 
-**Openness + Public Engagementy**. Cybersecuirty should be considered when implementing IoT projects, and IoT projects shuold be designed to promote the security and safety of public.
+**Openness + Public Engagementy**. Collected data should be made accessible when reasonable, and device owners or users should have ownership of data.
 
 
 
